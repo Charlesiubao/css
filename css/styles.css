@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #d0e8f2;
+}
+
+.middle-container {
+  background-color: #79a3b1;
+  width: auto;
+  height: auto;
+}
+
+.bottom-container {
+  background-color: #456268;
+  width: auto;
+  height: auto;
+}
+
+.cloud-img {
+  position: 200px;
+}
